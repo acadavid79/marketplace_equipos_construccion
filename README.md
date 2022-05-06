@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/sharetribe/sharetribe/tree/master.svg?style=svg)](https://circleci.com/gh/sharetribe/sharetribe/tree/master) [![Code Climate](https://codeclimate.com/github/sharetribe/sharetribe.png)](https://codeclimate.com/github/sharetribe/sharetribe)
 
+Repo basado en Sharetribe, diseñado para crear un marketplace de renta de equipos para la construccion.
+
 Sharetribe develops advanced marketplace software for every business life cycle stage.
 
 Sharetribe Go gives you the complete feature set to launch a marketplace for rentals, services, events, or products. The platform is source-available under the Sharetribe Community Public License.
@@ -73,7 +75,7 @@ Before you get started, the following needs to be installed:
     ```bash
     git clone git://github.com/sharetribe/sharetribe.git
     cd sharetribe
-    git checkout latest
+    git checkout dev
     ```
 
 1.  Install the required gems by running the following command in the project root directory:
